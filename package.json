@@ -1,0 +1,19 @@
+{
+  "name": "seila",
+  "version": "1.0.0",
+  "description": "descricao",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: bobao\" && exit 1"
+  },
+  "keywords": [
+    "chave"
+  ],
+  "author": "chera pneu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
